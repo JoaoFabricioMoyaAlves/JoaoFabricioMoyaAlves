@@ -8,6 +8,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="Rafa-guts"  src="https://media.discordapp.net/attachments/816990627102588959/1205307502074269736/cb9dd263099adac75b965e94d15b06b4.gif?ex=65d7e516&is=65c57016&hm=6d225c06a56380082c3be987ed7c70c5b382ce5a581bb3ed06143429b33529ae&=">
 </div>
 
 ##
