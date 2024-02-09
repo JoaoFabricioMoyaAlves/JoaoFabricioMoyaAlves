@@ -1,4 +1,7 @@
-### Olá! Eu sou o João, Prazer‼‼
+##
+### Olá! Eu sou o João, é um Prazer imenso conhecer-lo‼‼
+- 🔎 Aprocura de novas experiências e conhecimento
+- 🌱 Estudando React.js
 ##
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoFabricioMoyaAlves\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
