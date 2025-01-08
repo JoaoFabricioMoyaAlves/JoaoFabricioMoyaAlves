@@ -31,7 +31,7 @@
 
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Rafa-guts"  src="https://discord.com/channels/@me/1126241800068268105/1326347183385088050">
+  <img align="center" alt="Rafa-guts"  src="https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif">
 </div>
 
 <picture>
