@@ -1,5 +1,5 @@
 ##
-### Olá! Eu sou o João, é um Prazer imenso conhecer-lo‼‼
+###   Olá! Eu sou o João, Fascinado por Tecnologia desde os 10 anos.
 - 🔎 A Procura de uma Oportunidade !!!
 - 🌱 Estudando o Deselvolvimento Web & Software por completo.
 - ✅ Sempre Análisando e Aprendendo Boas Práticas para QA & QC.
