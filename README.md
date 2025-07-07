@@ -1,7 +1,7 @@
 ##
 ###   Olá! Eu sou o João, Fascinado por Tecnologia desde os 10 anos.
 - 🔎 A Procura de uma Oportunidade !!!
-- 🌱 Estudando o Deselvolvimento Web & Software por completo.
+- 🌱 Estudando o Desenvolvimento Web & Software por completo.
 - ✅ Sempre Análisando e Aprendendo Boas Práticas para QA & QC.
 - 🎨 Habilidades com Design e Trafego Digital.
 - 📢 Ótima Comunicação e Habilidades Sociais.
