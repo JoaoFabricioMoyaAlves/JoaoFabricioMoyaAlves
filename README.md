@@ -1,7 +1,10 @@
 ##
 ### Olá! Eu sou o João, é um Prazer imenso conhecer-lo‼‼
-- 🔎 A procura de novas experiências e conhecimentos
-- 🌱 Estudando 
+- 🔎 A Procura de uma Oportunidade!!!
+- 🌱 Estudando o Deselvolvimento Web & Software por completo!!!
+- 💻 Técnico em Informática para Internet
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas (4/6)
+-  📍 Localizado em Pacaembu-SP (Interior)
 ##
 
 
