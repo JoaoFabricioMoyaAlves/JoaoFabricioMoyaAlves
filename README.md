@@ -1,6 +1,5 @@
 ##
-###   Olá! Eu sou o João, Fascinado por Tecnologia desde os 10 anos.
-- 🔎 A Procura de uma Oportunidade !!!
+###   Olá! Eu sou o João, JAVA É SUPREMO ☕!!!
 - 🌱 Estudando o Desenvolvimento Web & Software por completo.
 - ✅ Sempre Análisando e Aprendendo Boas Práticas para QA & QC.
 - 🎨 Habilidades com Design e Trafego Digital.
