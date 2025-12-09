@@ -5,8 +5,7 @@
 - 🎨 Habilidades com Design e Trafego Digital.
 - 📢 Ótima Comunicação e Habilidades Sociais.
 - 💻 Técnico em Informática para Internet.
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas (4/6).
--  📍 Localizado em Pacaembu-SP (Interior).
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas (5/6).
 ##
 
 
